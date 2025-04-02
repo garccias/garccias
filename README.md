@@ -2,8 +2,13 @@
 
 Bem-vindo ao meu perfil do GitHub! Aqui você encontra meus projetos e estudos.
 
-## 🚀 Sobre mim
-- 🎓 Estudante do 2º semestre de Análise e Desenvolvimento de Sistemas (ADS) no IFBA
+## 🚀 Minha Jornada
+Desde o primeiro semestre da faculdade, mergulhei de cabeça no mundo da tecnologia e cibersegurança. Mesmo sendo caloura, aceitei o desafio de competir no **Projeto Embarcatech**, uma iniciativa do **Governo Federal + Softex**. Contra muitos concorrentes experientes, conquistei a **34ª posição**, provando que determinação e paixão podem nos levar longe. 
+
+Atualmente, sigo explorando novas tecnologias e desafios, sempre em busca de evolução.
+
+## 🎓 Sobre mim
+- 📚 Estudante do 2º semestre de Análise e Desenvolvimento de Sistemas (ADS) no IFBA
 - 🔐 Apaixonada por Cibersegurança e Segurança Digital
 - 💻 Entusiasta de Programação e Tecnologia
 
@@ -18,12 +23,11 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontra meus projetos e estudos.
 ## 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sophia-garcia&show_icons=true&theme=dracula&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophia-garcia&layout=compact&theme=dracula)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sophia-garcia&theme=dracula)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sophia-garcia&theme=dracula)
 
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophia-garcia-100349260/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sophiagarccia)
+📧 **Email:** sophiagarccia2@gmail.com
 
----
 💻 Sempre aprendendo e compartilhando conhecimento! 🚀
