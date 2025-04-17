@@ -21,7 +21,7 @@ Atualmente, sigo explorando novas tecnologias e desafios, sempre em busca de evo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sophia-garcia&show_icons=true&theme=dracula&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garccias&show_icons=true&theme=dracula&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garccias&layout=compact&theme=dracula)
 
 
