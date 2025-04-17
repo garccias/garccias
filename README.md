@@ -22,7 +22,7 @@ Atualmente, sigo explorando novas tecnologias e desafios, sempre em busca de evo
 
 ## 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sophia-garcia&show_icons=true&theme=dracula&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophia-garcia&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garccias&layout=compact&theme=dracula)
 
 
 ## 📫 Contato
