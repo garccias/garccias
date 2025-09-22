@@ -8,7 +8,7 @@ Desde o primeiro semestre da faculdade, mergulhei de cabeça no mundo da tecnolo
 Atualmente, sigo explorando novas tecnologias e desafios, sempre em busca de evolução.
 
 ## 🎓 Sobre mim
-- 📚 Estudante do 2º semestre de Análise e Desenvolvimento de Sistemas (ADS) no IFBA
+- 📚 Estudante do 3º semestre de Análise e Desenvolvimento de Sistemas (ADS) no IFBA
 - 🔐 Apaixonada por Cibersegurança e Segurança Digital
 - 💻 Entusiasta de Programação e Tecnologia
 
@@ -19,6 +19,10 @@ Atualmente, sigo explorando novas tecnologias e desafios, sempre em busca de evo
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garccias&show_icons=true&theme=dracula&count_private=true)
